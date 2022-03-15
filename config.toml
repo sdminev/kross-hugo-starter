@@ -28,8 +28,8 @@ email = "stefanminev@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "+359 887 990 300"
+theme_color = "#DE4E59"
 [params.contact]
 enable = true
 form_action = "#"
