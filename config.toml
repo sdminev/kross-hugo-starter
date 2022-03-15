@@ -24,7 +24,7 @@ address = "Sofia, Bulgaria"
 author = "Stefan Minev"
 copyright = "Copyright &copy; SDMinev 2022"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "stefanminev@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
@@ -52,7 +52,7 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "#"
-icon = "ti-facebook"
+icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
