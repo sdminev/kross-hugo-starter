@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Stefan Minev | Web Developer | Wordpress | WooCommerce"
 [[menu.main]]
 URL = "about"
 name = "About"
