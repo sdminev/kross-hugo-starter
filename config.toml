@@ -20,8 +20,8 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Sofia, Bulgaria"
+author = "Stefan Minev"
 copyright = "Copyright &copy; SDMinev 2022"
 description = "This is meta description"
 email = "steve.fruits@email.com"
