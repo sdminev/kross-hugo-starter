@@ -7,24 +7,76 @@
    viewBox="0 0 479 77.000003"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.56927083"
+     inkscape:cx="391.72919"
+     inkscape:cy="539.28637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1155"
+     width="479px"
+     units="px" />
   <defs
      id="defs2" />
   <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:98.7729px;line-height:1.25;font-family:'agave Nerd Font';-inkscape-font-specification:'agave Nerd Font Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.46932"
-       x="-2.2838381e-05"
-       y="70.848351"
+    <g
+       aria-label=" SDMinev"
+       transform="scale(1.0002814,0.99971868)"
        id="text1155"
-       transform="scale(1.0002814,0.99971868)"><tspan
-         id="tspan1153"
-         x="-2.2838381e-05"
-         y="70.848351"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'agave Nerd Font';-inkscape-font-specification:'agave Nerd Font Bold';fill:#ffffff;stroke-width:2.46932"> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';stroke-width:2.46932"
-   id="tspan19313">SDMinev</tspan></tspan></text>
+       style="font-weight:bold;font-size:98.7729px;line-height:1.25;font-family:'agave Nerd Font';-inkscape-font-specification:'agave Nerd Font Bold';stroke-width:2.46932;fill:#ffffff">
+      <path
+         d="m 41.091048,44.033051 h 20.641994 v 8.29538 H 41.091048 Z m 0,-16.397846 h 20.641994 v 8.295381 H 41.091048 Z M 16.011991,21.076067 34.917742,39.981818 16.011991,58.887569 10.224516,53.100094 23.342792,39.981818 10.224516,26.863542 Z M 8.2953577,2.9419794 q -3.6654007,0 -5.9803906,2.4114478 Q -2.2838381e-5,7.7648751 -2.2838381e-5,11.23736 v 57.488916 q 0,3.472485 2.411447838381,5.883933 2.4114478,2.411448 5.8839327,2.411448 H 65.784274 q 3.472485,0 5.883933,-2.411448 2.411448,-2.411448 2.411448,-5.883933 V 11.23736 q 0,-3.4724849 -2.411448,-5.8839328 -2.411448,-2.4114478 -5.883933,-2.4114478 z"
+         style="fill:#ffffff"
+         id="path25720" />
+      <path
+         d="m 128.53015,71.571785 q -5.01581,0 -9.83871,-1.012808 -4.77467,-1.012808 -9.01882,-2.941967 -4.19591,-1.977387 -7.52371,-4.726437 v 0 l 6.12508,-10.899745 v 0 q 4.05123,3.327798 9.35641,5.160499 5.30519,1.784471 10.89975,1.784471 6.46268,0 10.03162,-2.170303 3.56894,-2.218532 3.56894,-6.221535 v -0.04823 q 0,-2.79728 -1.59155,-4.437064 -1.59156,-1.639785 -4.14769,-2.411448 -2.55614,-0.771663 -6.55914,-1.39864 -0.14469,-0.04823 -0.28937,-0.04823 -0.0965,0 -0.24115,-0.04823 l -1.06104,-0.144687 q -7.04142,-1.109266 -11.6714,-2.74905 -4.62998,-1.688014 -7.86132,-5.835704 -3.23134,-4.195919 -3.23134,-11.864323 v -0.04823 q 0,-6.800283 3.03842,-11.6231788 3.03842,-4.8228957 8.8259,-7.3308014 5.78747,-2.556134754033 13.9864,-2.556134754033 3.76186,0 7.6684,0.868121224033 3.95477,0.86812123 7.71663,2.50790573 3.76186,1.6397845 7.13789,3.9547745 v 0 l -5.59456,11.1891175 v 0 q -4.05123,-2.797279 -8.4883,-4.340606 -4.38883,-1.543326 -8.44006,-1.543326 -6.07685,0 -9.40465,2.025616 -3.3278,1.977387 -3.3278,5.594559 v 0.04823 q 0,3.038424 1.73624,4.822896 1.73625,1.736242 4.29238,2.556134 2.55614,0.819892 7.18612,1.736243 0.19291,0.04823 0.38583,0.09646 0.19291,0 0.38583,0.04823 0.28937,0.04823 0.53052,0.144686 0.28937,0.04823 0.57875,0.09646 6.65559,1.302182 11.09266,3.183111 4.48529,1.832701 7.47548,5.980391 2.9902,4.099461 2.9902,11.237347 v 0.09646 q 0,6.703825 -3.13488,11.478492 -3.13489,4.774666 -9.16351,7.282572 -5.98039,2.507906 -14.42045,2.507906 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25722" />
+      <path
+         d="m 172.99724,58.115906 h 16.8319 q 6.51091,0 10.07985,-3.134882 3.56895,-3.134882 3.56895,-8.874128 V 25.464902 q 0,-5.739246 -3.56895,-8.874128 -3.56894,-3.134882 -10.07985,-3.134882 h -16.8319 V 0.7234474 h 16.54253 q 8.77767,0 14.95098,2.9419664 6.22153,2.9419663 9.45287,8.5847542 3.23134,5.642788 3.23134,13.600566 v 19.87033 q 0,7.571946 -3.13488,13.214734 -3.08665,5.642788 -9.30819,8.77767 -6.22154,3.134883 -15.24035,3.134883 h -16.4943 z m -6.6556,-57.3924586 h 13.21473 V 70.848351 h -13.21473 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25724" />
+      <path
+         d="m 274.32628,0.7234474 h 17.41066 V 70.848351 H 279.72793 V 16.397858 l 0.48229,3.086654 -13.40765,43.550748 H 255.13116 L 241.72351,20.449091 242.2058,16.397858 V 70.848351 H 230.19679 V 0.7234474 h 17.41065 l 13.35942,47.2643776 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25726" />
+      <path
+         d="m 305.48218,0.7234474 h 13.21473 V 13.938182 h -13.21473 z m 0,20.0632456 h 13.21473 v 50.061658 h -13.21473 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25728" />
+      <path
+         d="m 330.99532,20.786693 h 13.21473 v 50.061658 h -13.21473 z m 28.93737,19.725644 q 0,-3.665401 -2.12207,-5.691017 -2.07385,-2.025616 -5.93216,-2.025616 -3.66541,0 -5.69102,2.073845 -1.97739,2.025616 -1.97739,5.739246 l -1.01281,-11.09266 q 2.26676,-4.726438 5.40165,-7.089657 3.18311,-2.363219 7.95777,-2.363219 7.90955,0 12.25016,5.353414 4.34061,5.305186 4.34061,15.047435 v 30.384243 h -13.21474 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25730" />
+      <path
+         d="m 407.63112,71.571785 q -7.23434,0 -12.39484,-2.604364 -5.11227,-2.652592 -7.81309,-7.668404 -2.70082,-5.06404 -2.70082,-12.153697 v -5.642788 q 0,-7.427259 2.55613,-12.684216 2.60437,-5.256956 7.52372,-8.006006 4.96758,-2.749051 11.96078,-2.749051 6.55914,0 11.23735,3.279569 4.67821,3.279569 7.08966,9.549334 2.45967,6.221535 2.45967,15.047434 v 3.279569 h -34.24256 v -8.922357 h 22.18532 l -0.14468,-1.157495 q -0.53052,-4.340606 -2.74905,-6.703825 -2.17031,-2.363219 -5.83571,-2.363219 -4.77467,0 -7.42726,2.845509 -2.60436,2.845508 -2.60436,8.054236 v 6.366222 q 0,5.112269 2.84551,7.909549 2.89373,2.797279 8.05423,2.797279 2.6526,0 5.25696,-0.91635 2.60436,-0.964579 4.72644,-2.700822 v 0 l 8.63298,7.668405 v 0 q -3.90655,3.568942 -8.77767,5.54633 -4.87112,1.929158 -9.83871,1.929158 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25732" />
+      <path
+         d="m 465.69876,20.786693 h 13.16651 l -18.80929,50.061658 h -9.35642 L 431.89027,20.786693 h 13.1665 l 10.321,31.397051 z"
+         style="font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff"
+         id="path25734" />
+    </g>
   </g>
 </svg>
