@@ -21,24 +21,18 @@ name = "Contact"
 weight = 5
 [params]
 address = "Sofia, Bulgaria"
+appleicon = "apple.png"
 author = "Stefan Minev"
 copyright = "Copyright &copy; SDMinev 2022"
 description = "This is meta description"
 email = "stefanminev@gmail.com"
+favicon_ico = "/images/favicon.ico"
+favicon_ico_sizes = "16x16 32x32"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.svg"
 phone = "+359 887 990 300"
 theme_color = "#DE4E59"
-  # Site icons
-  favicon_ico = "favicon.ico"
-  favicon_ico_sizes = "16x16 32x32"
-  appleicon = "apple.png"
-
-  # Additional options to supplement icons served
-  #favicon_png = "favicon.png"
-  #favicon_png_sizes = "96x96"
-  #favicon_svg = "favicon.svg"
 [params.contact]
 enable = true
 form_action = "https://formsubmit.co/stefanminev@gmail.com"
