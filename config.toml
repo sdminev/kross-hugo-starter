@@ -48,7 +48,7 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "https://raw.githubusercontent.com/sdminev/kross-hugo-starter/00a86a4d5a3f6254b7b80d54f903b20e99c9765d/static/images/Infinity-1s-200px.svg"
 [[params.social]]
 URL = "#"
