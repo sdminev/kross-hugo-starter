@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "stefanminev@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "logo.svg"
+logo = "images/logo.svg"
 phone = "+359 887 990 300"
 theme_color = "#DE4E59"
 [params.contact]
