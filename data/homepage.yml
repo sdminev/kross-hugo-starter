@@ -16,8 +16,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Web Development <br><h5>'Cause there's always room to improve ;)</h5>
+    progress: 95%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
