@@ -32,7 +32,7 @@ phone = "+359 887 990 300"
 theme_color = "#DE4E59"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formsubmit.co/stefanminev@gmail.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
