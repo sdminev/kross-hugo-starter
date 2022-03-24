@@ -8,7 +8,7 @@ author_signature: images/about/signature.png
 ---
 ## I will find and fix you!
 
-I've been in IT as long as I can remember - say, since High School. Before that I know about me from word of mouth.
+I've been in IT as long as I can remember - say, since High School. Before that I know about me only from word of mouth :)
 
 Creating stuff - and fixing more stuff, has been my passion ever since I dismantled my Nintendo64; Seriously, in the 90s, if you broke your console, you didn't simply get a new one. So I had to put it back together. And I couldn't :)
 
