@@ -6,10 +6,10 @@ author_image: images/author-sdminev-square.png
 author_signature: images/about/signature.png
 
 ---
-### //Here Be Dragons
+## I will find and fix you!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I've been in IT as long as I can remember - say, since High School. Before that I know about me from word of mouth.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident.
+Creating stuff - and fixing more stuff, has been my passion ever since I dismantled my Nintendo64; Seriously, in the 90s, if you broke your console, you didn't simply get a new one. So I had to put it back together. And I couldn't :)
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Many years later, I believe that's what set me on the path I'm right now - driven by endless curiosity, strive for perfecting everything and a healthy dose of creativity.
