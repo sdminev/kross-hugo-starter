@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "fester-kross-hugo"
+theme = "fstr-kross-hugo"
 title = "Stefan Minev | Web Developer | Wordpress | WooCommerce"
 [[menu.main]]
 URL = "about"
