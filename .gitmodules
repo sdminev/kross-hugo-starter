@@ -1,3 +1,6 @@
 [submodule "themes/kross-hugo"]
 	path = themes/kross-hugo
 	url = https://github.com/sdminev/kross-hugo
+[submodule "fstr-kross-hugo"]
+	path = fstr-kross-hugo
+	url = https://github.com/sdminev/fstr-kross-hugo
