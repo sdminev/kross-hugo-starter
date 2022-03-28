@@ -2,7 +2,6 @@
 category_ = ["woocommerce", "wordpress"]
 date = 2022-01-31T22:00:00Z
 description = "how to create custom woocommerce add to cart links"
-draft = true
 image = "/images/woocommerce-logo.png"
 title = "WooCommerce add to Cart URLs"
 
