@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sdminev/kross-hugo-starter#readme",
   "dependencies": {
     "@tinacms/cli": "^1.5.6",
-    "tinacms": "^1.4.6"
+    "tinacms": "^1.4.6",
+    "yarn": "^1.22.19"
   }
 }
