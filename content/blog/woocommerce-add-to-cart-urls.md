@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 category_ = ["woocommerce", "wordpress"]
 date = 2022-01-31T22:00:00Z

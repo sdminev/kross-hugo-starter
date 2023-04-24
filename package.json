@@ -1,0 +1,24 @@
+{
+  "name": "kross-hugo-starter",
+  "version": "1.0.0",
+  "description": "![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdminev/kross-hugo-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdminev/kross-hugo-starter/issues"
+  },
+  "homepage": "https://github.com/sdminev/kross-hugo-starter#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.6",
+    "tinacms": "^1.4.6"
+  }
+}
