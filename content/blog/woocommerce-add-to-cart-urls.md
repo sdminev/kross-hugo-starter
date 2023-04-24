@@ -1,3 +1,7 @@
++++
+_template = "post"
++++
+
 ---
 _template: post
 ---
