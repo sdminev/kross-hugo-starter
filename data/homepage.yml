@@ -30,7 +30,7 @@ skill:
     color: "#bdecf6"
   - title: Hugo
     progress: 30%
-    description: Always learn new things! This website is actually made with Hugo, deployed on Netlify from Github and managed with TinaCMS (previously forestry)
+    description: Always learn new things! This website is actually made with Hugo, deployed on Netlify from GitHub and managed with TinaCMS (previously forestry)
     color: "#ffbcaa"
 experience:
   enable: true
