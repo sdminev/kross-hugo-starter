@@ -21,12 +21,12 @@ skill:
     description: Over 8 years experience.
     color: "#fdb157"
   - title: Woocommerce
-    progress: 60%
-    description: Over 8 years experience.
+    progress: 95%
+    description: Over 6 years experience.
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
-    description: Over 8 years experience.
+  - title: PHP
+    progress: 85%
+    description: Over 6 years experience.
     color: "#bdecf6"
   - title: Hugo
     progress: 30%
