@@ -16,17 +16,21 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Development
+  - title: Wordpress
     progress: 95%
+    description: Over 8 years experience.
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Woocommerce
+    progress: 95%
+    description: Over 6 years experience.
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: PHP
+    progress: 85%
+    description: Over 6 years experience.
     color: "#bdecf6"
   - title: Hugo
     progress: 30%
+    description: Always learn new things! This website is actually made with Hugo, deployed on Netlify from GitHub and managed with TinaCMS (previously forestry)
     color: "#ffbcaa"
 experience:
   enable: true
