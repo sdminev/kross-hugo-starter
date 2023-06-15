@@ -32,6 +32,11 @@ skill:
     progress: 85%
     description: Over 8 years experience.
     color: "#F0DC4E"
+  - title: Python
+    progress: 55%
+    description: learning&experimenting
+    color: "#4182B4"
+    
   - title: Hugo
     progress: 30%
     description: Always learn new things! This website is actually built with Hugo, deployed on Netlify from GitHub and managed with TinaCMS (previously forestry.io)
