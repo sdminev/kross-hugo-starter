@@ -1,19 +1,11 @@
-+++
-_template = "post"
-+++
-
 ---
-_template: post
+category_ : ["woocommerce", "wordpress"]
+date : 2022-01-31T22:00:00Z
+description : "how to create custom woocommerce add to cart links"
+image : "/images/woocommerce-logo.png"
+title : "WooCommerce add to Cart URLs"
+draft: true
 ---
-
-+++
-category_ = ["woocommerce", "wordpress"]
-date = 2022-01-31T22:00:00Z
-description = "how to create custom woocommerce add to cart links"
-image = "/images/woocommerce-logo.png"
-title = "WooCommerce add to Cart URLs"
-
-+++
 ### URL: Add One Simple Product to Cart
 
     <a href=”https://myawesomeshop.com/?add-to-cart=44&quantity=1“ />
