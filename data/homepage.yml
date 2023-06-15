@@ -28,9 +28,13 @@ skill:
     progress: 85%
     description: Over 6 years experience.
     color: "#bdecf6"
+  - title: JS
+    progress: 85%
+    description: Over 8 years experience.
+    color: "#F0DC4E"
   - title: Hugo
     progress: 30%
-    description: Always learn new things! This website is actually made with Hugo, deployed on Netlify from GitHub and managed with TinaCMS (previously forestry)
+    description: Always learn new things! This website is actually built with Hugo, deployed on Netlify from GitHub and managed with TinaCMS (previously forestry.io)
     color: "#ffbcaa"
 experience:
   enable: true
@@ -60,18 +64,12 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
+  - title: Telecommunications, BE
+    year: "2010"
+    academy: Technical University of Sofia
+  - title: Computer Engineering
     year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+    academy: Technology School Electronic Systems
 service:
   enable: true
   title: Services
