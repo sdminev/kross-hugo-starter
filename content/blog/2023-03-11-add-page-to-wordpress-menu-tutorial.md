@@ -6,24 +6,6 @@ type: post
 date: 2023-03-11T00:03:29+00:00
 url: /add-page-to-wordpress-menu-tutorial/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_og_content_image:
-  - 'a:2:{s:5:"check";s:32:"360c496d8a70a1b8ff67b1b4589a8190";s:6:"images";a:1:{i:0;i:37;}}'
-rank_math_primary_category:
-  - 1
-rank_math_seo_score:
-  - 24
-rank_math_analytic_object_id:
-  - 5
-rank_math_focus_keyword:
-  - wordpress website,wordpress tutorial,wordpress tutorial for beginners,wordpress help,wordpress beginner
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - All tips and tricks
 

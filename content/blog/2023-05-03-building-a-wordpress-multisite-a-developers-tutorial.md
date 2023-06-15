@@ -5,22 +5,6 @@ author: WP-Tactics
 type: post
 date: 2023-05-03T21:55:12+00:00
 url: /building-a-wordpress-multisite-a-developers-tutorial/
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 7
-rank_math_primary_category:
-  - 1
-wpaicg_toc_title:
-  - Table of Contents
-wpaicg_toc_title_tag:
-  - h2
-wpaicg_intro_title_tag:
-  - h2
-wpaicg_conclusion_title_tag:
-  - h2
-rank_math_analytic_object_id:
-  - 26
 categories:
   - All tips and tricks
 

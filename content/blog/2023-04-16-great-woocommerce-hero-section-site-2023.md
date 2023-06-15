@@ -5,30 +5,6 @@ author: WP-Tactics
 type: post
 date: 2023-04-16T12:44:09+00:00
 url: /great-woocommerce-hero-section-site-2023/
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 72
-rank_math_focus_keyword:
-  - woocommerce hero section
-rank_math_analytic_object_id:
-  - 25
-rank_math_description:
-  - 'What key elements make a great Woocommerce hero section? Six steps for building the best one in 2023 and convert your visitors to customers. '
-rank_math_title:
-  - %title% %sep% %sitename%
-rank_math_primary_category:
-  - 1
-rank_math_og_content_image:
-  - 'a:2:{s:5:"check";s:32:"14f0e9c40dbcad1dd4638a689f3f231d";s:6:"images";a:1:{i:0;i:206;}}'
-wpaicg_toc_title:
-  - Table of Contents
-wpaicg_toc_title_tag:
-  - h2
-wpaicg_intro_title_tag:
-  - h2
-wpaicg_conclusion_title_tag:
-  - h2
 categories:
   - All tips and tricks
   - E-commerce

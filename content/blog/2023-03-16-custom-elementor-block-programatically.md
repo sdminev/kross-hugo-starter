@@ -7,22 +7,6 @@ date: 2023-03-16T19:46:27+00:00
 excerpt: "Hey there, savvy WordPress users! You know Elementor, right? It's that amazing plugin that lets you build gorgeous website designs without having to write a single line of code. Well, did you know that with Elementor you can also create custom blocks to use on your website? That's right, you can go beyond the pre-made blocks and build your own. And in this article, we're going to show you how to do just that - by programming your own custom Elementor block! So get ready to unleash your coding skills and take your website design to the next level."
 url: /custom-elementor-block-programatically/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 67
-rank_math_primary_category:
-  - 1
-rank_math_focus_keyword:
-  - custom elementor block
-rank_math_analytic_object_id:
-  - 21
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - All tips and tricks
   - Plugins

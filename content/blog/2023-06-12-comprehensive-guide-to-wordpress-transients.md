@@ -6,34 +6,6 @@ type: post
 date: 2023-06-12T09:12:04+00:00
 url: /comprehensive-guide-to-wordpress-transients/
 featured_image: /wp-content/uploads/2023/06/wordpress_transients.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 92
-rank_math_primary_category:
-  - 1
-rank_math_analytic_object_id:
-  - 29
-rank_math_focus_keyword:
-  - Wordpress Transients
-rank_math_description:
-  - "Wordpress Transients aren't that hard to grasp if you break them down. We'll explain what them in this piece, along with how and when to use them."
-rank_math_title:
-  - '%title% %sep% '
-rank_math_ca_keyword:
-  - 'a:2:{s:7:"keyword";s:20:"wordpress transients";s:7:"country";s:3:"all";}'
-rank_math_contentai_score:
-  - 'a:5:{s:9:"wordCount";s:3:"100";s:9:"linkCount";s:3:"100";s:12:"headingCount";s:1:"0";s:10:"mediaCount";s:2:"40";s:8:"keywords";s:5:"58.33";}'
-rank_math_og_content_image:
-  - 'a:2:{s:5:"check";s:32:"2acb667a57b786060dd3bf29672cc998";s:6:"images";a:1:{i:0;i:232;}}'
-wpaicg_toc_title:
-  - Table of Contents
-wpaicg_toc_title_tag:
-  - h2
-wpaicg_intro_title_tag:
-  - h2
-wpaicg_conclusion_title_tag:
-  - h2
 categories:
   - All tips and tricks
 

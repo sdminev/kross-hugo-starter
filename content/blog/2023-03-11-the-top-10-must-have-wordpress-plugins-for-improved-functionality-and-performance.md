@@ -6,16 +6,6 @@ type: post
 date: 2023-03-11T00:30:30+00:00
 url: /the-top-10-must-have-wordpress-plugins-for-improved-functionality-and-performance/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_primary_category:
-  - 7
-rank_math_seo_score:
-  - 11
-rank_math_analytic_object_id:
-  - 7
-rank_math_focus_keyword:
-  - wordpress website,word press website builder,wordpress plugins,best wordpress plugins,website performance
 categories:
   - Plugins
 

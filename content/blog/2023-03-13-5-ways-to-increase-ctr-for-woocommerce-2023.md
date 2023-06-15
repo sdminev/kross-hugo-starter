@@ -6,22 +6,6 @@ type: post
 date: 2023-03-13T17:43:00+00:00
 url: /5-ways-to-increase-ctr-for-woocommerce-2023/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 77
-rank_math_analytic_object_id:
-  - 13
-rank_math_primary_category:
-  - 1
-rank_math_focus_keyword:
-  - woocommerce,ctr for woocommerce
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - All tips and tricks
   - E-commerce

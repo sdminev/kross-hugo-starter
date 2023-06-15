@@ -4,28 +4,11 @@ draft: true
 author: WP-Tactics Team
 type: post
 date: 2023-03-16T19:10:24+00:00
-excerpt: |
-  Creating a custom Elementor block can be a great way to add unique functionality and design elements to your website. With Block Lab, a free WordPress plugin, you can easily create your own custom blocks without having to write any code.
+excerpt: Creating a custom Elementor block can be a great way to add unique functionality and design elements to your website. With Block Lab, a free WordPress plugin, you can easily create your own custom blocks without having to write any code.
   
   In this tutorial, we'll walk you through the process of creating a custom Elementor block using Block Lab, and show you how to add it to your website.
 url: /how-to-create-a-custom-elementor-block-using-block-lab/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 60
-rank_math_primary_category:
-  - 1
-rank_math_focus_keyword:
-  - Custom Elementor Block,Block Lab,Elementor
-rank_math_analytic_object_id:
-  - 20
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - All tips and tricks
   - Plugins

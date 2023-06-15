@@ -6,22 +6,6 @@ type: post
 date: 2023-03-11T01:09:20+00:00
 url: /wordpress-6-1-1-the-latest-patch-notes-for-a-better-user-experience/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_primary_category:
-  - 4
-rank_math_seo_score:
-  - 12
-rank_math_analytic_object_id:
-  - 9
-rank_math_focus_keyword:
-  - website wordpress,user experience,word press plug ins,latest version wordpress,wordpress update
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - Wordpress Core
 

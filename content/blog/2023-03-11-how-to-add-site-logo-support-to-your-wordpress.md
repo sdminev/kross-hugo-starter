@@ -6,22 +6,6 @@ type: post
 date: 2023-03-11T00:14:48+00:00
 url: /how-to-add-site-logo-support-to-your-wordpress/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_primary_category:
-  - 1
-rank_math_seo_score:
-  - 54
-rank_math_analytic_object_id:
-  - 6
-rank_math_focus_keyword:
-  - wordpress theme,website wordpress,custom theme,site logo,wordpress support
-wpaicg_toc_title_tag:
-  - h1
-wpaicg_intro_title_tag:
-  - h1
-wpaicg_conclusion_title_tag:
-  - h1
 categories:
   - All tips and tricks
   - Wordpress Core

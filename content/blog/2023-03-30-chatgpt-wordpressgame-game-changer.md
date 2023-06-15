@@ -6,26 +6,6 @@ type: post
 date: 2023-03-30T16:19:26+00:00
 url: /chatgpt-wordpressgame-game-changer/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 62
-rank_math_focus_keyword:
-  - ChatGPT + WordPress
-rank_math_description:
-  - 'ChatGPT + WordPress = Game Changer: How to Make It Work for Your Site'
-rank_math_analytic_object_id:
-  - 23
-rank_math_primary_category:
-  - 1
-wpaicg_toc_title:
-  - Table of Contents
-wpaicg_toc_title_tag:
-  - h2
-wpaicg_intro_title_tag:
-  - h2
-wpaicg_conclusion_title_tag:
-  - h2
 categories:
   - All tips and tricks
   - SEO

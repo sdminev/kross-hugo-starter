@@ -6,26 +6,6 @@ type: post
 date: 2023-03-22T23:57:26+00:00
 url: /how-to-build-custom-wordpress-themes-a-developers-tutorial/
 featured_image: /wp-content/uploads/2023/03/Top-10-Best-Hosting-Providers-for-WordPress-2.png
-rank_math_internal_links_processed:
-  - 1
-rank_math_seo_score:
-  - 73
-rank_math_focus_keyword:
-  - Custom WordPress Theme
-rank_math_description:
-  - "One of the main reasons for WordPress's success is its flexibility, which allows developers to create custom themes and plugins to meet their specific needs. In this tutorial, we will guide you through the process of building a custom WordPress theme from scratch."
-rank_math_analytic_object_id:
-  - 19
-rank_math_primary_category:
-  - 1
-wpaicg_toc_title:
-  - Table of Contents
-wpaicg_toc_title_tag:
-  - h2
-wpaicg_intro_title_tag:
-  - h2
-wpaicg_conclusion_title_tag:
-  - h2
 categories:
   - All tips and tricks
 
