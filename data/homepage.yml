@@ -41,25 +41,33 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: HP Software Support Engineer
-    company: ADRA/TechExperts
-    duration: Sep 2010 - Apr 2014
-  - logo: images/experience/icon-2.png
-    title: L2 Infrastructure support
-    company: Coca-Cola Hellenic
-    duration: Apr 2014 - Oct 2015
-  - logo: images/experience/icon-1.png
-    title: Senior IT Administration and Information Security Expert
-    company: CRAS at Ministry of Regional Development and Public Works
-    duration: Oct 2015 - Feb 2019
+    title: Senior Software Developer
+    company: Orbis DS
+    duration: Apr 2022 - Present
   - logo: images/experience/icon-2.png
     title: Senior Web Developer
     company: ATOP LLC
     duration: Feb 2019 - Apr 2022
   - logo: images/experience/icon-1.png
-    title: Senior Software Developer
-    company: Orbis DS
-    duration: Apr 2022 - Present
+    title: Freelance Web Developer
+    company: sdminev.com
+    duration: Oct 2012 - present  
+  - logo: images/experience/icon-2.png
+    title: Senior IT Administration and Information Security Expert
+    company: CRAS at Ministry of Regional Development and Public Works
+    duration: Oct 2015 - Feb 2019  
+  - logo: images/experience/icon-1.png
+    title: L2 Infrastructure support
+    company: Coca-Cola Hellenic
+    duration: Apr 2014 - Oct 2015
+  - logo: images/experience/icon-2.png
+    title: HP Software Support Engineer
+    company: ADRA/TechExperts
+    duration: Sep 2010 - Apr 2014
+  
+  
+  
+  
 education:
   enable: true
   title: Education
