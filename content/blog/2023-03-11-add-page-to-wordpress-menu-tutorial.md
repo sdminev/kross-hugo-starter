@@ -1,5 +1,6 @@
 ---
 title: 'Adding a Page to Your WordPress Menu: A Beginner’s Tutorial'
+draft: true
 author: Wordpress Tactics
 type: post
 date: 2023-03-11T00:03:29+00:00

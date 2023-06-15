@@ -1,5 +1,6 @@
 ---
 title: How to add Logo Support to Your WordPress Theme
+draft: true
 author: Wordpress Tactics
 type: post
 date: 2023-03-11T00:14:48+00:00

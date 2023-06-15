@@ -1,5 +1,6 @@
 ---
 title: Comprehensive Guide to WordPress Transients in 2023
+draft: true
 author: WP-Tactics
 type: post
 date: 2023-06-12T09:12:04+00:00

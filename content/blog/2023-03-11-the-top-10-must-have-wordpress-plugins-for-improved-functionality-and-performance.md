@@ -1,5 +1,6 @@
 ---
 title: The Top 10 Must-Have WordPress Plugins for Improved Functionality and Performance
+draft: true
 author: Wordpress Tactics
 type: post
 date: 2023-03-11T00:30:30+00:00

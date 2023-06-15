@@ -1,5 +1,6 @@
 ---
 title: Great Woocommerce Hero Section in 2023 – key elements
+draft: true
 author: WP-Tactics
 type: post
 date: 2023-04-16T12:44:09+00:00

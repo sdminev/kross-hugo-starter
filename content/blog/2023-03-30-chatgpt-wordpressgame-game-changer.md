@@ -1,5 +1,6 @@
 ---
 title: 'ChatGPT + WordPress = Game Changer: How to Make It Work for Your Site | 2023 GUIDE'
+draft: true
 author: WP-Tactics Team
 type: post
 date: 2023-03-30T16:19:26+00:00
