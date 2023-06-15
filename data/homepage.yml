@@ -37,17 +37,25 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: HP Software Support Engineer
+    company: ADRA/TechExperts
+    duration: Sep 2010 - Apr 2014
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: L2 Infrastructure support
+    company: Coca-Cola Hellenic
+    duration: Apr 2014 - Oct 2015
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Senior IT Administration and Information Security Expert
+    company: CRAS at Ministry of Regional Development and Public Works
+    duration: Oct 2015 - Feb 2019
+  - logo: images/experience/icon-2.png
+    title: Senior Web Developer
+    company: ATOP LLC
+    duration: Feb 2019 - Apr 2022
+  - logo: images/experience/icon-1.png
+    title: Senior Software Developer
+    company: Orbis DS
+    duration: Apr 2022 - Present
 education:
   enable: true
   title: Education
