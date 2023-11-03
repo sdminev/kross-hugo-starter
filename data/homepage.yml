@@ -3,11 +3,7 @@ banner:
   title: Hi! I’m <br> Stefan! <br> Web Developer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: Hi, I\u0027m Stefan – I sling code, craft pixels, and turn coffee into interactive web experiences that pop off the page. Got a project that needs a dash of creativity and a byte of expertise? Let's play!
   button:
     enable: true
     label: know more
