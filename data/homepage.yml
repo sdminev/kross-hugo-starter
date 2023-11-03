@@ -3,7 +3,7 @@ banner:
   title: Hi! I’m <br> Stefan! <br> Web Developer
 about:
   enable: true
-  content: Hi, I\u0027m Stefan – I sling code, craft pixels, and turn coffee into interactive web experiences that pop off the page. Got a project that needs a dash of creativity and a byte of expertise? Let's play!
+  content: Hi, I\u0027m Stefan – I sling code, craft pixels, and turn coffee into interactive web experiences that pop off the page. Got a project that needs a dash of creativity and a byte of expertise? Let\u0027s play!
   button:
     enable: true
     label: know more
