@@ -36,7 +36,7 @@ item:
     project_url : "https://app.denteu.com/"
     category: "SaaS"
 
-    - image : "images/portfolio/sdminev-portfolio-10.png"
+  - image : "images/portfolio/sdminev-portfolio-10.png"
     project_url : "https://denteu.com/"
     category: "Web"
       
