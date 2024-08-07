@@ -87,14 +87,10 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Jesica Gomez
+  - name:  
     image: images/testimonial/client-1.png
     designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    content: Working with Stefan was a game-changer for our website. His expertise in WordPress development, combined with his innovative thinking, transformed our site into a business asset. His result-driven approach ensured we met all our project goals on time.
   - name: Shirley Scot
     image: images/testimonial/client-1.png
     designation: CEO, Funder
