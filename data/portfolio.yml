@@ -2,11 +2,11 @@
 item:
   - image : "images/portfolio/sdminev-portfolio-1.png"
     project_url : "https://eqhaku.fi/"
-    category: "Web"
+    category: "Web, Web app"
       
   - image : "images/portfolio/sdminev-portfolio-2.png"
-    project_url : "https://eqhaku.fi/"
-    category: "Ecommerce"
+    project_url : "https://aquae-jewels.com/"
+    category: "Web, E-commerce"
 
 
 
