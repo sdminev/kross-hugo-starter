@@ -1,40 +1,76 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "design"
+  - image : "images/portfolio/sdminev-portfolio-1.png"
+    project_url : "https://eqhaku.fi/"
+    category: "Web"
       
-  - image : "images/portfolio/item-2.png"
-    project_url : "#"
-    category: "branding"
+  - image : "images/portfolio/sdminev-portfolio-2.png"
+    project_url : "https://aquae-jewels.com/"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-3.png"
+    project_url : "https://wowtea.eu"
+    category: "E-commerce"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/sdminev-portfolio-4.png"
+    project_url : "https://thefitbody.eu"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-5.png"
+    project_url : "https://book.sofia-airport.eu/en/"
+    category: "Web"
       
-  - image : "images/portfolio/item-5.png"
-    project_url : "#"
-    category: "design"
+  - image : "images/portfolio/sdminev-portfolio-6.png"
+    project_url : "https://bebemax.bg/"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-7.png"
+    project_url : "https://theporter.io"
+    category: "Web"
       
-  - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/sdminev-portfolio-8.png"
+    project_url : "https://tonysdecor.com/"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-9.png"
+    project_url : "https://app.denteu.com/"
+    category: "SaaS"
+
+  - image : "images/portfolio/sdminev-portfolio-10.png"
+    project_url : "https://denteu.com/"
+    category: "Web"
       
-  - image : "images/portfolio/item-6.png"
-    project_url : "#"
-    category: "design"
+  - image : "images/portfolio/sdminev-portfolio-11.png"
+    project_url : "https://gearbox.ae/"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-12.png"
+    project_url : "https://studioredpoint.bg/"
+    category: "Web"
       
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
+  - image : "images/portfolio/sdminev-portfolio-13.png"
+    project_url : "https://simeondonov.com/"
+    category: "Portfolio"
+
+  - image : "images/portfolio/sdminev-portfolio-14.png"
+    project_url : "https://tsvetomirdimov.com/"
+    category: "Portfolio"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "#"
-    category: "illustration"
+  - image : "images/portfolio/sdminev-portfolio-15.png"
+    project_url : "https://motive-edu.com/"
+    category: "Web"
+
+  - image : "images/portfolio/sdminev-portfolio-16.png"
+    project_url : "https://renoracosmetics.com/en/"
+    category: "E-commerce"
       
-  - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
+  - image : "images/portfolio/sdminev-portfolio-17.png"
+    project_url : "https://glamor.bg/"
+    category: "E-commerce"
+
+  - image : "images/portfolio/sdminev-portfolio-18.png"
+    project_url : "https://adalit.bg/"
+    category: "Web"
 
 
 # client logo slider
